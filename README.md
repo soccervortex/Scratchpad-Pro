@@ -3,7 +3,6 @@
 **Scratchpad Pro** is a lightweight, distraction-free productivity tool for Windows. Designed for speed, it allows you to jot down thoughts, snippets, and to-dos instantly without breaking your workflow.
 
 ![Scratchpad Banner](https://github.com/soccervortex/Scratchpad-Pro/blob/main/scratchpadui.png?raw=true) 
-*(Tip: Replace this link with a screenshot of your app once you upload one to GitHub!)*
 
 ---
 
