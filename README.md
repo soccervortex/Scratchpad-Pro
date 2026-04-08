@@ -19,7 +19,7 @@
 
 ## 🚀 Installation
 
-1.  Go to the [Releases](https://github.com/YOUR_USERNAME/Scratchpad-Pro/releases) page.
+1.  Go to the [Releases](https://github.com/soccervortex/Scratchpad-Pro/releases/tag/v14.0) page.
 2.  Download the latest `ScratchpadPro_v14_Installer.exe`.
 3.  Run the installer (Administrator rights are required to enable the global hotkey).
 4.  Launch the app and start typing!
@@ -53,4 +53,4 @@ If you find this tool useful, feel free to support its development! You can find
 
 ---
 
-**Developed with ❤️ by [Your Name/GitHub Username]**
+**Developed with ❤️ by Scratchpad Pro**
